@@ -398,7 +398,7 @@ export class APClientManager {
                 version: {
                     major: 0,
                     minor: 6,
-                    build: 7
+                    build: 7 
                 }
             });
             this.client = client;
